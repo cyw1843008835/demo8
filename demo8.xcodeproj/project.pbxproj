@@ -16,6 +16,7 @@
 		D2E9087023DC7910005AA229 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2E9086E23DC7910005AA229 /* LaunchScreen.storyboard */; };
 		D2E9087B23DC7910005AA229 /* demo8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E9087A23DC7910005AA229 /* demo8Tests.swift */; };
 		D2E9088623DC7910005AA229 /* demo8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E9088523DC7910005AA229 /* demo8UITests.swift */; };
+		D2E9089623DC793A005AA229 /* Userlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E9089523DC793A005AA229 /* Userlist.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D2E9088123DC7910005AA229 /* demo8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demo8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2E9088523DC7910005AA229 /* demo8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demo8UITests.swift; sourceTree = "<group>"; };
 		D2E9088723DC7910005AA229 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2E9089523DC793A005AA229 /* Userlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Userlist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D2E9087123DC7910005AA229 /* Info.plist */,
 				D2E9086423DC790B005AA229 /* demo8.xcdatamodeld */,
 				D2E9086B23DC7910005AA229 /* Preview Content */,
+				D2E9089523DC793A005AA229 /* Userlist.swift */,
 			);
 			path = demo8;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				D2E9086123DC790B005AA229 /* AppDelegate.swift in Sources */,
 				D2E9086623DC790B005AA229 /* demo8.xcdatamodeld in Sources */,
 				D2E9086823DC790B005AA229 /* ContentView.swift in Sources */,
+				D2E9089623DC793A005AA229 /* Userlist.swift in Sources */,
 				D2E9086323DC790B005AA229 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
